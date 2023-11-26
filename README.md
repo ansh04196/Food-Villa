@@ -13,7 +13,7 @@ Explore a diverse menu featuring a wide array of cuisines. From mouthwatering bu
 Our intuitive ordering system lets you add items to your cart with a simple click. Easily customize your order, specify special instructions, and view a summary before checkout.
 
 💳 Secure Payments
-Rest easy knowing your transactions are secure. Foodie Express supports various payment options, providing a convenient and safe way to settle your bill.
+Rest easy knowing your transactions are secure. Food Villa supports various payment options, providing a convenient and safe way to settle your bill.
 
 📍 Location-Based Delivery
 Get your favorite meals delivered right to your doorstep. Our location-based delivery service ensures timely and accurate delivery to enhance your overall dining experience.
@@ -109,8 +109,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Getting Started
 Clone the repository to your local machine.
 
-bash
-Copy code
+ 
 ###  ```git clone https://github.com/ansh04196/Food-Villa.git```
 Navigate to the project directory.
 
@@ -124,7 +123,7 @@ Start the development server.
 
  
 ### ```npm start```
-Open your browser and visit http://localhost:3000 to see Foodie Express in action!
+Open your browser and visit http://localhost:3000 to see Food Villa in action!
 
 Contributions
 We welcome contributions from the community. If you have any ideas for improvement, feel free to open an issue or submit a pull request.
