@@ -4,7 +4,7 @@ Welcome to Food-Villa, a delightful online food-ordering project built with HTML
 
 Features
 📱 Responsive Design
-Enjoy a seamless ordering experience on any device. Our responsive design ensures that whether you're on your desktop, tablet, or smartphone, Foodie Express looks and works flawlessly.
+Enjoy a seamless ordering experience on any device. Our responsive design ensures that whether you're on your desktop, tablet, or smartphone, Food Villa looks and works flawlessly.
 
 🍽️ Menu Variety
 Explore a diverse menu featuring a wide array of cuisines. From mouthwatering burgers to delectable pizzas and refreshing beverages, we've got something for every palate.
@@ -111,6 +111,7 @@ Clone the repository to your local machine.
 
  
 ###  ```git clone https://github.com/ansh04196/Food-Villa.git```
+
 Navigate to the project directory.
 
  
