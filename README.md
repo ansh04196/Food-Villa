@@ -111,22 +111,19 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-### git clone https://github.com/your-username/foodie-express.git
+###  ```git clone https://github.com/ansh04196/Food-Villa.git```
 Navigate to the project directory.
 
-bash
-Copy code
-### cd foodie-express
+ 
 Install dependencies.
 
-bash
-Copy code
-### npm install
+ 
+### ```npm install```
 Start the development server.
 
-bash
-Copy code
-### npm start
+
+ 
+### ```npm start```
 Open your browser and visit http://localhost:3000 to see Foodie Express in action!
 
 Contributions
